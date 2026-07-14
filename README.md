@@ -13,7 +13,7 @@ Research, field notes and case files: **[adarshsarda.github.io](https://adarshsa
 
 ## 01 · Research principles
 
-| | |
+| Principle | In practice |
 |---|---|
 | **Measure statistically.** | AI failures are probabilistic. Report rates, sample sizes, controls, and uncertainty. |
 | **Report failed iterations.** | A discarded shortcut can teach more about the system than a polished final score. |
